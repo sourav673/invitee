@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.b44t.messenger.beta",
+    "sha256_cert_fingerprints":
+    ["D6:06:53:76:C9:4F:9E:ED:BB:86:BA:16:E4:1D:97:38:59:F9:84:2D:39:95:BA:FC:8B:9D:7A:08:51:7C:FE:8D"]
+  }
+}]
